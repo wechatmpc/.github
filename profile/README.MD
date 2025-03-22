@@ -1,4 +1,4 @@
-# Wechat Mini-program MPC-Based Decentralized Wallet 🚀🔒
+# Wechat/Alipay Mini-program MPC-Based Decentralized Wallet 🚀🔒
 
 We are the first Wechat-mini-program MPC signature program ! This repository houses our innovative decentralized wallet solution built on cutting-edge **Multi-Party Computation (MPC)** technology, combined with secure **JWT authentication** and convenient **OAuth** integration with popular social platforms like **WeChat** and **Alipay**. 
 
